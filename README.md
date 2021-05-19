@@ -22,6 +22,7 @@
   <img align="left" alt="Dulana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
+<img align="center" src="Gif/coding-freak.gif" height="100px" />
 <br />
 
 ### Languages and Tools:
