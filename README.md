@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java, React, Flutter
 - 👨🏼‍💻 I’m looking for an internship to establish myself as a skilful software engineer. <img align="center" src="Gif/Developer.gif" height="33px" />
 
-### Connect with me: <img align="center" src="Gif/Handshake.gif" height="33px" /> <img align="right" src="Gif/coding-freak.gif" height="200px" />
+### Connect with me: <img align="center" src="Gif/Handshake.gif" height="33px" /> <img align="right" src="Gif/coding-freak.gif" height="300px" />
 
 
 <a href="https://www.linkedin.com/in/dulana-sandes-wijewickrama-ratnayake-5946071a6/">
