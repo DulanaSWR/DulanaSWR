@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Java, React, Flutter
 - 👨🏼‍💻 I’m looking for an internship to establish myself as a skilful software engineer. <img align="center" src="Gif/Developer.gif" height="33px" />
 
-### Connect with me: <img align="center" src="Gif/Handshake.gif" height="33px" />
+### Connect with me: <img align="center" src="Gif/Handshake.gif" height="33px" /> <img align="right" src="Gif/coding-freak.gif" height="200px" />
+
 
 <a href="https://www.linkedin.com/in/dulana-sandes-wijewickrama-ratnayake-5946071a6/">
   <img align="left" alt="Dulana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -21,8 +22,8 @@
 <a href="https://twitter.com/DulanaRatnayake">
   <img align="left" alt="Dulana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<br />
-<img align="center" src="Gif/coding-freak.gif" height="100px" />
+
+
 <br />
 
 ### Languages and Tools:
@@ -38,3 +39,4 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+
