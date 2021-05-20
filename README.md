@@ -41,6 +41,6 @@
 <br />
 <br />
 
-<img align="center" alt="Viper GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DulanaSWR&&show_icons=true&title_color=00B51A&icon_color=FFEF00&text_color=00FFCD&bg_color=13231D" />
+<img align="center" alt="Viper GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DulanaSWR&&show_icons=true&title_color=00B51A&icon_color=FFEF00&text_color=00FFCD&bg_color=13231D&border_color=13231D" />
 
 
