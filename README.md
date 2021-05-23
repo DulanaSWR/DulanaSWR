@@ -8,19 +8,19 @@
 
 
 <a href="https://www.linkedin.com/in/dulana-sandes-wijewickrama-ratnayake-5946071a6/">
-  <img align="left" alt="Dulana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Dulana | LinkedIn" width="22px" src="Logos/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/dulanasandes_00/">
-  <img align="left" alt="Dulana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Dulana | Instagram" width="22px" src="Logos/instagram.png" />
 </a>
 <a href="https://www.facebook.com/dulana.ratnayake">
-  <img align="left" alt="Dulana | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Dulana | Facebook" width="22px" src="Logos/facebook.png" />
 </a>
 <a href="https://www.youtube.com/channel/UC0HakshlUd7ATF2x1bYZSHQ">
-  <img align="left" alt="Dulana | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Dulana | YouTube" width="22px" src="Logos/youtube.png" />
 </a>
 <a href="https://twitter.com/DulanaRatnayake">
-  <img align="left" alt="Dulana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Dulana | Twitter" width="22px" src="Logos/twitter.png" />
 </a>
 
 
