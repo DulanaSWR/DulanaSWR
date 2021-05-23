@@ -8,26 +8,23 @@
 
 
 <a href="https://www.linkedin.com/in/dulana-sandes-wijewickrama-ratnayake-5946071a6/">
-  <img align="left" alt="Dulana | LinkedIn" width="22px" src="Logos/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/dulanasandes_00/">
-  <img align="left" alt="Dulana | Instagram" width="22px" src="Logos/instagram.png" />
+  <img align="center" alt="Dulana | LinkedIn" width="25px" src="Logos/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/dulana.ratnayake">
-  <img align="left" alt="Dulana | Facebook" width="22px" src="Logos/facebook.png" />
+  <img align="center" alt="Dulana | Facebook" width="24px" src="Logos/facebook.png" />
 </a>
-<a href="https://www.youtube.com/channel/UC0HakshlUd7ATF2x1bYZSHQ">
-  <img align="left" alt="Dulana | YouTube" width="22px" src="Logos/youtube.png" />
+<a href="https://www.instagram.com/dulanasandes_00/">
+  <img align="center" alt="Dulana | Instagram" width="25px" src="Logos/instagram.png" />
 </a>
 <a href="https://twitter.com/DulanaRatnayake">
-  <img align="left" alt="Dulana | Twitter" width="22px" src="Logos/twitter.png" />
+  <img align="center" alt="Dulana | Twitter" width="30px" src="Logos/twitter.png" />
+</a>
+<a href="https://www.youtube.com/channel/UC0HakshlUd7ATF2x1bYZSHQ">
+  <img align="center" alt="Dulana | YouTube" width="32px" src="Logos/youtube.png" />
 </a>
 
-
 <br />
-
 ### Languages and Tools:
-
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
