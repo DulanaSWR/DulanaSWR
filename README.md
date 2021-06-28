@@ -1,7 +1,7 @@
 ### Hi, I'm Dulana Ratnayake <img align="center" src="Gif/Hi.gif" height="33px" />
 
 - 🎓 I’m currently undertaking my Bachelor's Degree in Sotware Engineering at Informatics Institute of Technology | University of Westminster UK.
-- 🌱 I’m currently learning Java, React, Flutter
+- 🌱 I’m currently learning Java, Python, NodeJs
 - 👨🏼‍💻 I’m looking for an internship to establish myself as a skilful software engineer. <img align="center" src="Gif/Developer.gif" height="33px" />
 
 ### Connect with me: <img align="center" src="Gif/Handshake.gif" height="33px" /> 
